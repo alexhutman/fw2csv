@@ -16,10 +16,10 @@ int main(int argc, char *argv[]) {
 		print_len_arr(&lengths);
 
 		printf("Size: %d, capacity: %d\n", lengths.size, lengths.capacity);
-		printf("Adding more values to array...\n");
-		add(&lengths, N_COLS);
-		printf("Size: %d, capacity: %d\n", lengths.size, lengths.capacity);
-		add(&lengths, N_COLS+1);
+		printf("Adding values from test file to array...\n");
+
+		// You have to call this test from the base directory of the project for this file to load correctly
+		get_lens_from_file(&lengths, "test/lengths.txt");
 		printf("Size: %d, capacity: %d\n", lengths.size, lengths.capacity);
 
 		print_len_arr(&lengths);
