@@ -21,7 +21,5 @@ int main(int argc, char *argv[]) {
 				return 1;
 		}
 
-		print_len_arr(&lengths);
-
 		free(lengths.arr);
 }
