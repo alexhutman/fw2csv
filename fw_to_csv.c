@@ -14,13 +14,14 @@ int main(int argc, char *argv[]) {
 				return 1;
 		}
 
+		char *fname = argv[1];
 		IntArray lengths = {malloc(N_COLS * sizeof(int)), 0, N_COLS};
 
-		char *fname = argv[1];
-		FILE *fp = fopen(fname, "r");
-
-		if (fp == NULL) {
-				fprintf(stderr, "ERROR: file %s does not exist\n", fname);
+		if (get_lens_from_file(&lengths, fname)) {
 				return 1;
 		}
+
+		print_len_arr(&lengths);
+
+		free(lengths.arr);
 }

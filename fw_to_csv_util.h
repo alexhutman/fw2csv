@@ -9,6 +9,8 @@ typedef struct {
 
 int add(IntArray*, int);
 
-void print_len_arr(IntArray *i_arr);
+int get_lens_from_file(IntArray*, char*);
+
+void print_len_arr(IntArray*);
 
 #endif
