@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "fw_to_csv_util.h"
+#include "fw2csv_util.h"
 
 
 #define N_COLS 10

@@ -1,5 +1,5 @@
-#ifndef FW_TO_CSV_UTIL_H
-#define FW_TO_CSV_UTIL_H
+#ifndef FW2CSV_UTIL_H
+#define FW2CSV_UTIL_H
 
 typedef struct {
 		int *arr;

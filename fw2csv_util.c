@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "fw_to_csv_util.h"
+#include "fw2csv_util.h"
 
 int add(IntArray *i_arr, int value) {
 		// Resize the array if need be
