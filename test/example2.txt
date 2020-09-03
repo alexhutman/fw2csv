@@ -1,0 +1,530 @@
+ 165240110/17/20123930621977TXNPUES                  S1YesRHMXWPCPYes                 5,007.10No 
+1916750101/14/20132368183100OUNHQEX XUFQONY          S1No         Yes                43,537.00Yes
+1916670101/14/20133714468136GHAKASC QHJXDFM          S1Yes        Yes    3,172.53             Yes
+1916730101/14/20132632703881PAHFSAP LUVIKXZ          S1No         Yes      983.21             No 
+ 804950111/21/20122766389794XDZANTV                  S1YesTGZGMOXGYes                   903.78Yes
+ 805070111/21/20124609266335BWWYEZL                  S1YesUSUKVMZOYes                   670.31No 
+ 805090111/21/20121092717420QJYPKVO                  S1No DNUNTASSYes                   848.50Yes
+ 804970111/21/20123386366766SOQLCMU                  S1YesBRHUMGJRYes                     7.31Yes
+1916690101/14/20135905893739FYIWNKA QUAFDKD          S1Yes        Yes    9,167.93             Yes
+1916710101/14/20132749355876CBMJTLP NGFSEIS          S1Yes        Yes      746.70             Yes
+1916740101/14/20134530359106OTAVZGH ZUQFISZ          S1Yes        No     7,035.74             Yes
+2448190102/04/20134679391677EGHLQTI ABE              S1Yes        No                 89,947.13No 
+ 960620111/30/20125996493062KTSVTADFF EHEHFMX        S1YesUBNQLRCCYes        7.10             Yes
+ 165270110/17/20125595769375ILCVJYC                  S1YesHCVZOUMYYes                   321.19Yes
+1916700101/14/20131948028853RPPDCWC UWODNIO          S1Yes        No     9,293.80             No 
+1916720101/14/20134938823703CTMDXXP HXOXVFF          S1Yes        No       175.00             Yes
+1916680101/14/20134207018603DBZZULF QGDZQMD          S1Yes        Yes      206.26             Yes
+2014420201/16/20135339093153KIP MAJ                  S1Yes        Yes    6,030.75             No 
+2014440201/16/20134189184779NFR MMP                  S1Yes        Yes   41,790.07             No 
+2014480201/16/20133370491102FIU ZVR                  S1Yes        No    54,044.56             Yes
+2014460201/16/20134586422636EJH ZMT                  S1Yes        Yes      678.69             Yes
+2014510201/16/20131425533033JWS ZCI                  S1Yes        Yes                30,278.28Yes
+2014520201/16/20135191302470TMQ GMU                  S1Yes        Yes  666,195.93             Yes
+2014540201/16/20132155845833HCP DNV                  S1Yes        Yes  820,262.25             Yes
+2014560201/16/20131250064928VMO AWH                  S1No         Yes   25,478.89             No 
+2014580201/16/20132384080804TGE XGG                  S1No         Yes  788,684.67             Yes
+2014600201/16/20131606678185KRS BRK                  S1Yes        Yes   71,058.47             No 
+2014640201/16/20133363129639FHA AKO                  S1No         Yes   16,947.59             Yes
+2014620201/16/20134719124808QGU UIO                  S1No         Yes       81.53             Yes
+2014660201/16/20135444141687NKC DSF                  S1No         Yes   68,968.66             No 
+2014680201/16/20133596453934AAC PZU                  S1Yes        Yes  366,362.63             Yes
+2014700201/16/20135658191939FMF EWO                  S1Yes        Yes  341,992.68             Yes
+2014720201/16/20132670215222GPE PYM                  S1Yes        Yes    6,766.96             Yes
+2014740201/16/20135157395529APR WCM                  S1Yes        No             88,469,487.43Yes
+2014760201/16/20131294323461KCD VMP                  S1No         Yes    7,493.60             Yes
+2014780201/16/20132398412695ONP HQT                  S1No         Yes               341,718.97Yes
+2014800201/16/20135955295141RQF BYJ                  S1Yes        No   405,319.75             Yes
+2014840201/16/20132024774889RHN LFP                  S1Yes        Yes  502,615.75             Yes
+2016170201/16/20131148505273RSJ ZPR                  S1Yes        No     5,277.11             Yes
+ 689440211/14/20121592175803YPVMQHO                  S1No KOBUEPIGYes                 1,332.58Yes
+1916840201/14/20135085986818TOENLKI IKUQGHJ          S1Yes        Yes                 4,277.50Yes
+2014820201/16/20134980117019MNY BXQ                  S1Yes        No   119,596.24             Yes
+2014860201/16/20131675964576TUW FZU                  S1No         Yes            63,107,204.44Yes
+2014880201/16/20134070447707QVY WVI                  S1Yes        Yes   97,248.32             Yes
+2014920201/16/20135901784648BEM TNG                  S1No         Yes       96.28             Yes
+2029060201/17/20134705202419GHC EZC                  S1Yes        Yes      309.96             Yes
+1916760201/14/20131656268173YLEOJSF ILJUCZQ          S1Yes        Yes    9,436.88             Yes
+2014900201/16/20133555076584RRA FHY                  S1Yes        Yes                62,393.74Yes
+2014950201/16/20131994042408NLD YIJ                  S1Yes        Yes             7,976,446.15Yes
+2014960201/16/20131816184060WGK ALF                  S1Yes        Yes             1,311,304.57Yes
+2014990201/16/20132726425901QQN LFZ                  S1Yes        Yes               100,286.01Yes
+2015000201/16/20132004263975RKT BQB                  S1Yes        Yes    3,186.98             Yes
+2015020201/16/20134864189690QUV NJT                  S1No         Yes    1,157.72             Yes
+2015040201/16/20134582712143QAW JJM                  S1Yes        No                  3,648.62Yes
+2015060201/16/20132062107155KZN KTI                  S1Yes        No                  5,613.88Yes
+2015080201/16/20135353783999MJL JSW                  S1No         Yes    1,509.70             Yes
+2015100201/16/20134961873358EVB YAE                  S1Yes        Yes      107.54             Yes
+2015120201/16/20134933832108SQL QNY                  S1Yes        Yes                 7,614.96Yes
+2975710202/26/20134852971285EEO LAEUZ                S1No         Yes    1,824.37             Yes
+2015140201/16/20133517474593SFH YIJ                  S1No         Yes    6,939.49             Yes
+2015160201/16/20131650585504FVJ EDJ                  S1No         Yes   25,180.59             Yes
+2015180201/16/20135059829559JCI HIL                  S1No         Yes  317,738.41             Yes
+2028820201/17/20133184536751TIV JPK                  S1No         Yes   57,711.04             No 
+2015220201/16/20134329447393MWL CYD                  S1No         Yes                89,204.35No 
+2028840201/17/20135570531576AZV UNU                  S1Yes        Yes   50,454.20             Yes
+1916820201/14/20131820672461GCKOZFG TMSCKBQ          S1Yes        Yes      511.83             Yes
+2015200201/16/20134140099655LBQ NZN                  S1Yes        Yes   30,320.51             Yes
+2015240201/16/20135589444439NVR LIH                  S1Yes        Yes    8,233.61             No 
+2015260201/16/20134746903212LNM SPJ                  S1Yes        Yes      389.10             No 
+2015280201/16/20135674799509ECQ YAW                  S1Yes        Yes                59,322.30Yes
+2015300201/16/20133619009221NZI VQO                  S1Yes        No         9.55             Yes
+2015320201/16/20131731849384BHA KIM                  S1Yes        Yes   14,416.68             Yes
+2015360201/16/20134571753309KZD OML                  S1No         Yes                 8,894.55Yes
+2015340201/16/20133009486640OTH WLA                  S1Yes        Yes       12.71             Yes
+2015380201/16/20133484349949TUN NTN                  S1Yes        Yes                 9,310.53Yes
+2015400201/16/20132447554338IXX QDQ                  S1Yes        Yes                 2,094.16No 
+2015440201/16/20135720075203YYI SAT                  S1No         No     4,649.14             Yes
+2015420201/16/20134328000106ZOR NHF                  S1Yes        Yes                    63.29Yes
+2015460201/16/20132343476904IVB ACD                  S1Yes        Yes               399,731.28Yes
+2015480201/16/20134819464989IQL PIZ                  S1No         Yes  598,216.89             Yes
+2015520201/16/20133483562951YYM RRE                  S1Yes        Yes                 7,223.20No 
+2015500201/16/20131796152645DNN MTW                  S1Yes        Yes   88,025.51             Yes
+2015540201/16/20135645509504TSB XSI                  S1No         Yes                    99.76Yes
+2015560201/16/20132252988184IRD ARC                  S1No         Yes    2,705.24             Yes
+2015620201/16/20135030639913KTK GBS                  S1Yes        No    86,870.21             Yes
+2028860201/17/20134589654367WAY PHP                  S1No         No                888,652.21Yes
+2015660201/16/20133923850182RJW EVH                  S1Yes        Yes                55,675.38No 
+2015640201/16/20134005543986WMQ VIR                  S1Yes        Yes      682.39             Yes
+2015680201/16/20132196234980THA MAS                  S1Yes        Yes    3,610.93             No 
+2015700201/16/20133317853286JOF ZPH                  S1No         Yes   92,762.79             Yes
+2015760201/16/20134783891770BXC YZM                  S1Yes        Yes   15,916.03             Yes
+1916780201/14/20133228123970RTVIOTA JSUMMGT          S1Yes        Yes    6,738.16             No 
+2015720201/16/20135758667742XDA GXF                  S1Yes        Yes   73,950.06             Yes
+2015740201/16/20134690896064NET EFG                  S1Yes        No       108.43             Yes
+2015780201/16/20135416669577DXX QFO                  S1Yes        Yes                 1,573.65Yes
+2015800201/16/20134073990529OVT HVE                  S1Yes        Yes                   234.26No 
+2015820201/16/20133350626514MSR HTU                  S1No         Yes   70,177.04             Yes
+2015840201/16/20135534716215LPW KSA                  S1No         Yes  709,566.95             Yes
+2015860201/16/20131333696422BMB QXF                  S1Yes        Yes   57,828.34             Yes
+2029480201/17/20131846344572ORT VRC                  S1Yes        No                 91,222.89Yes
+2015880201/16/20133584813314GXL XLE                  S1Yes        Yes  570,595.38             Yes
+2029490201/17/20132340931540RJD YZY                  S1Yes        Yes                12,058.25Yes
+2015920201/16/20133747365477UZK TVP                  S1No         Yes    5,405.23             Yes
+2029500201/17/20132328760641JJF TAW                  S1No         Yes                17,300.64Yes
+2015900201/16/20134891238351RLJ TYI                  S1No         Yes    9,280.07             Yes
+2015940201/16/20132445576889NPB LTM                  S1Yes        Yes   73,600.47             Yes
+2015960201/16/20131131400890KFT VOU                  S1Yes        Yes    2,511.14             Yes
+2015980201/16/20133198000607XGF WHD                  S1Yes        Yes  804,206.25             Yes
+2028880201/17/20133424010164NCV TQK                  S1Yes        No    60,603.58             Yes
+2016000201/16/20131357362202NTF YEL                  S1Yes        Yes    2,003.65             Yes
+1916800201/14/20133026859465EDBUACD WEZRWLL          S1Yes        No        84.87             No 
+2016030201/16/20131228021754BCE IPT                  S1Yes        No    53,459.63             Yes
+2016070201/16/20131960409896RPW VOP                  S1Yes        Yes                19,338.24Yes
+2016050201/16/20135435665837KCO IPE                  S1Yes        Yes    1,733.55             Yes
+2016090201/16/20131670503103ZEE IEX                  S1Yes        No       966.52             Yes
+2016110201/16/20135090237998NKJ HDW                  S1Yes        Yes   89,788.23             Yes
+2016150201/16/20133037106335NYH WIN                  S1Yes        Yes                 8,285.95Yes
+1916830201/14/20133218305868NCUADLA OCCRZZI          S1Yes        Yes    9,464.69             Yes
+2016130201/16/20133160675662UOE FLW                  S1Yes        Yes       61.43             No 
+2448210202/04/20134782051803APXSCSA MUY              S1Yes        Yes                 6,341.42Yes
+2016190201/16/20134800649934EYY TWA                  S1Yes        No                 88,238.61Yes
+2016210201/16/20134586812816WXH OLT                  S1Yes        Yes  467,624.78             Yes
+2016250201/16/20135633998695TPI DRN                  S1Yes        No                 17,385.42Yes
+1916790201/14/20132738920179NVJEQRO MXHOEZY          S1Yes        No       387.05             No 
+2016230201/16/20135282986169ENB MWC                  S1No         No       322.20             Yes
+2016270201/16/20132886267720URA LQA                  S1Yes        Yes  792,962.67             Yes
+2016290201/16/20133408572430SNU KIK                  S1Yes        No    46,418.08             Yes
+2016310201/16/20134162827051LNQ TWJ                  S1Yes        Yes  474,346.28             Yes
+2016330201/16/20135104452119IIZ RRM                  S1Yes        Yes    3,887.06             Yes
+2029340201/17/20133039960200IYN GQU                  S1No         Yes                40,238.82Yes
+2029440201/17/20133464897804ZPZ QJH                  S1Yes        Yes                 7,935.31Yes
+2016370201/16/20132954227854NJX OQP                  S1Yes        Yes   62,640.49             Yes
+1916810201/14/20134674532310KPRFAQD CSRAWJD          S1Yes        Yes      659.26             No 
+2016350201/16/20131209819056USF IEK                  S1No         Yes   40,684.90             Yes
+2016390201/16/20132674857578ZTQ EWX                  S1Yes        Yes   84,183.82             No 
+2016410201/16/20134870683163OUM WDK                  S1Yes        No    44,060.39             Yes
+2016430201/16/20132980748744UTP LWB                  S1Yes        Yes                 2,625.33Yes
+2029360201/17/20131120052663GXA CPB                  S1Yes        Yes   65,314.59             Yes
+2016450201/16/20135100670344EFC WFP                  S1No         Yes                19,722.02Yes
+2016470201/16/20134191224907FNA TWX                  S1Yes        Yes   92,191.66             Yes
+2016510201/16/20131238092182KOE WGT                  S1No         Yes                   749.90Yes
+1916770201/14/20132628015322JJAABAL XFIIYDP          S1Yes        No       296.01             Yes
+2016490201/16/20135478245582JSX HEL                  S1Yes        Yes                59,481.61No 
+2016530201/16/20135078186565AHO GRF                  S1Yes        Yes  855,668.19             Yes
+2016550201/16/20134950860447GTV SVG                  S1Yes        No   178,184.87             Yes
+2016590201/16/20134205768057ADG DNM                  S1Yes        No                 87,077.68No 
+2016570201/16/20131636840297CSJ MVU                  S1Yes        Yes                   637.36Yes
+2574850302/08/20135972874272ISC ACT                  S1Yes        Yes                28,049.29Yes
+2718260302/13/20135562161561FUGWXKKS RL UGHJVVUG     S1YesOHVN    Yes                   312.18Yes
+2783870302/15/20133085508997GIZXKGG FLO EZTF         S1YesTWQP    Yes    6,474.31             Yes
+2574860302/08/20131163119351MRP GYV                  S1Yes        Yes               620,418.19No 
+2718250302/13/20132329467622TWLLLSJN QX RHMBGQQJ     S1YesVPFY    No                  4,879.57Yes
+2783880302/15/20135475465591WGIZHXU SZE AZSY         S1YesGEYJ    Yes   84,922.59             No 
+2574870302/08/20133870244338TPB LEL                  S1Yes        No                    788.06Yes
+2783890302/15/20135147720860PPAZITT NPM YXXM         S1YesUOTD    No    65,716.85             Yes
+2574880302/08/20135110231564YOV LKG                  S1No         No                 37,375.87Yes
+2574910302/08/20133604897945JKF TAU                  S1Yes        No                167,943.60Yes
+2663630302/11/20133620457372AIG PCH                  S1No         No       145.42             Yes
+2717940302/13/20135079794253WCDNUBOT BN JTVIZBSO     S1No MPPX    Yes                51,792.25Yes
+2843060302/19/20133675490279                         S1YesWNKF    Yes                75,328.33Yes
+2843140302/19/20131214698583                         S1YesFMSL    Yes                 1,387.16No 
+2857660302/20/20133257295699YCYKAIH GVCT             S1YesZQET    Yes                20,602.88Yes
+2882950302/21/20131643604623MJVBTYKYQY UXROZIP       S1YesUERM    Yes                98,946.13Yes
+2574920302/08/20133438195533IFU BEI                  S1Yes        Yes  693,115.83             Yes
+2663650302/11/20132113474754FRH EIR                  S1Yes        No                341,125.37Yes
+2717930302/13/20132051529678ZTFLSCTY AE ADQRMERO     S1YesUADW    Yes                44,327.18Yes
+2843050302/19/20132966015508                         S1YesAYXS    Yes               937,322.38Yes
+2843130302/19/20133458116788                         S1YesHWXX    Yes                38,500.63Yes
+2857650302/20/20135823012149GKIGGFY QRFH             S1YesFNWS    Yes                11,723.69Yes
+2574940302/08/20132530379247UYO NOF                  S1Yes        No     5,378.54             Yes
+2717960302/13/20135820521382KFWKMUAW XM MFAWCFPR     S1YesAEBE    Yes                   975.18Yes
+2783910302/15/20131305184952XTIKVXE UAS ZCGR         S1YesRSUR    Yes    5,906.99             Yes
+2574960302/08/20131719908713WLQ DMP                  S1Yes        Yes   92,682.42             Yes
+2350640301/31/20133002528097DRXSWE SRGQRXMKK         S1No LNJO    No       499.92             Yes
+2350670301/31/20134747973279ICOERVLK SAIWEAHK SP HCMSS1YesAKED    Yes    2,568.63             Yes
+2574980302/08/20132936539718YBV GHV                  S1Yes        No   196,015.60             Yes
+2717950302/13/20132759749802GBLAPMZK RU RKJTSUHI     S1YesXBZY    No                  2,203.71Yes
+2856480302/20/20133725928266GMCQGKS PBZG             S1YesRVZT    Yes                91,238.06Yes
+2783920302/15/20134011432166FYRHOFC GAB CAQS         S1No ZVGG    No    88,379.52             Yes
+2575000302/08/20132675418951IYO TQP                  S1Yes        Yes    2,916.97             Yes
+2350690301/31/20134264676199UABJ YMDWFQD VAMB        S1YesQONQ    No                 74,844.18Yes
+2575040302/08/20135852575645SXW EQJ                  S1Yes        Yes                 4,387.11Yes
+2350700301/31/20132638043708REVH OSVOEYM CKCR        S1YesURUA    Yes   89,551.36             Yes
+2350720301/31/20134359829140OEUP HELULAH ITGF        S1No UCFO    Yes    6,183.28             Yes
+2783930302/15/20132740511065YFZBCVE VDB VBFW         S1YesIIWM    Yes   54,791.07             Yes
+2575060302/08/20135246458028ENZ FEB                  S1Yes        Yes    8,174.16             Yes
+2855790302/20/20131101495865JDXPBSLJS XPZXQXX        S1No         Yes                 4,164.21No 
+2350710301/31/20131951245370JKPT EMIDPRF ZNSD        S1YesZHTX    No                  9,749.87Yes
+2362850302/01/20135234171039BTT LO GTHRYST           S1YesYUON    Yes      278.22             Yes
+2362860302/01/20133797707593TOQ KP NMXOVNK           S1YesDPIR    No       746.58             Yes
+2362870302/01/20131221115759NVC PI CRFXGKK           S1YesCRKZ    Yes      955.69             Yes
+2575020302/08/20131807823798ZOL KIH                  S1Yes        Yes   35,984.63             Yes
+2575080302/08/20133323367369OVV SEM                  S1No         Yes  481,687.96             No 
+2575100302/08/20131152412955CKY IXY                  S1Yes        Yes    7,713.57             No 
+2946420302/25/20131230040208LTAY MVBA YW JL          S1YesNVBI    Yes   38,026.48             Yes
+2946450302/25/20131402328618BLCS BXJB BE DH          S1No LHHW    Yes                47,428.08Yes
+2575150302/08/20134211202436SBN WKB                  S1Yes        Yes               496,013.34Yes
+2718220302/13/20131584315561ELXHSRFP FF XCGQCEHA     S1No IINS    Yes                 9,466.64Yes
+2756910302/14/20134941954497DUSY Y QNNEJ LLOWA       S1No FIRG    Yes               416,156.17Yes
+2843200302/19/20133472905128                         S1YesHCLB    Yes                42,791.65No 
+2946430302/25/20131262976685PYSG LYFK HY XO          S1YesIWSD    Yes                76,421.20Yes
+2946440302/25/20132640814319ZDIQ XRCH GX RB          S1No JFWK    Yes    6,237.29             Yes
+2856320302/20/20131581361179BOLYMJI TBYS             S1YesBHVT    No       899.48             Yes
+2856330302/20/20133951045564IDRUXZS BAFP             S1No GIVO    Yes      925.30             No 
+2609180302/08/20133842713563UTW LUQ                  S1No         Yes  393,027.42             Yes
+2717920302/13/20131484169517MUXEMKOZ AA ZAXNJLBC     S1No IMRR    Yes5,641,168.36             Yes
+2718210302/13/20132622877741OQJAJRAW QQ BGEDIGAE     S1YesNPNU    Yes                77,052.71Yes
+2728120302/13/20134509634521RRGHU UYSMYSN            S1Yes        Yes                43,342.38No 
+2843190302/19/20132135248964                         S1YesBBXF    Yes                21,173.51Yes
+2783950302/15/20132715082665ONS UTI KMLG             S1YesYXKJ    Yes   99,491.89             Yes
+2227530301/25/20132323564734SMPRD R PZLH NMN STK     S1No BXSD    Yes                 5,056.25Yes
+2609200302/08/20131353499415CKH JDL                  S1Yes        Yes  171,474.46             Yes
+2718200302/13/20132462142428XTEIZIBS WT YXSBUGKC     S1YesZYNK    Yes               852,136.85Yes
+2728140302/13/20135994035953GYYUD HHWXDLZ            S1Yes        No                 39,872.49Yes
+2728880302/13/20132375451459LLJRN TYPYWTZ            S1Yes        Yes   30,791.23             No 
+2756900302/14/20135105559902JXNG Q LDXMV MONSV       S1YesUSUA    Yes  960,042.66             Yes
+2843180302/19/20133613416187                         S1YesDMQI    No                339,591.80No 
+2783960302/15/20132695734235ORO ZSY NACR             S1No WBOM    Yes   32,082.42             Yes
+2856310302/20/20135546031693JEYZFSE ZJDQ             S1YesOYHW    Yes      868.98             Yes
+2227540301/25/20132858877071GWOVQ F JFBE ADE IZA     S1YesYYWR    Yes                44,180.29Yes
+2610560302/08/20134351292388TNP EBS                  S1Yes        No       861.62             Yes
+2730940302/13/20131586839806ZXTVN BFYDRCK            S1Yes        Yes                 9,831.36Yes
+2783970302/15/20132869360275OBQ ZZN EQMT             S1YesGPTP    Yes   44,046.69             Yes
+2856350302/20/20132226270617ZEXWEHT ANWI             S1YesJMDJ    Yes      363.06             No 
+1628040301/02/20134442690358IFPWKPV                  S1YesNDPSNSKYYes                 4,148.35Yes
+1916930301/14/20135656682837XONLEVU TCODENK          S1Yes        Yes                 6,534.21Yes
+2609220302/08/20134009855443EPK PBT                  S1Yes        Yes                85,439.79Yes
+2609270302/08/20134172567014JWE STV                  S1Yes        No    38,559.38             Yes
+2718150302/13/20134485151485BCWMTYBJ MD KOFAXUJE     S1YesSFEN    Yes                91,758.79Yes
+2736480302/14/20134556545417LXAR PLLQJ IMTSTJV       S1YesLTRH    Yes       39.44             Yes
+2783990302/15/20132533184602CAW OHP FYJY             S1YesEWDB    Yes  790,684.70             Yes
+2609280302/08/20134911937659CIY ETV                  S1Yes        Yes   94,469.67             Yes
+2718140302/13/20135018400665FWWCDORG GY QLXOIUOM     S1No WMRY    Yes                23,524.14Yes
+2736490302/14/20133290465567ZQTH KLCWY HNHAJKJ       S1No QKEH    Yes      398.98             Yes
+2843150302/19/20134557228572                         S1YesSTRU    No                 29,151.51Yes
+2784000302/15/20134769032165UOV OET MZZI             S1YesBJHA    Yes   80,516.96             No 
+2609320302/08/20133397440573MZX BHE                  S1YesC       Yes                   783.06Yes
+2856270302/20/20133114006821TWSZKRL SRHE             S1YesENUI    Yes                 6,289.98Yes
+2882830302/21/20134452414163CQFLVSJCVY ERLKAOT       S1No JXNG    No     6,864.59             Yes
+2609300302/08/20134179831106LCZ EVF                  S1Yes        No     9,301.23             Yes
+2856280302/20/20134309608118KYVBGUC BCEO             S1No EMFK    Yes                     9.59No 
+2856290302/20/20133876752076GVUMQVO FQIW             S1No OJNA    Yes                 9,990.60Yes
+1916850301/14/20135785940209HEWQXUV TWEZIHV          S1Yes        Yes    6,428.45             Yes
+2609290302/08/20132703148458NWH NPT                  S1Yes        Yes    8,753.76             Yes
+2424890302/04/20132515966924NARCZDA KDV              S1No         Yes               648,644.75Yes
+2609350302/08/20132000839803RBN KYE                  S1Yes        Yes    1,422.23             No 
+2718240302/13/20132754408170DRAXXNKH HY QJUIDIZR     S1YesXRLS    Yes                24,207.96Yes
+2948310302/25/20132509236923FUYPPEF YN WDG ILS       S1YesHXGU    No    94,053.82             Yes
+2609360302/08/20132089574961JVB QOO                  S1Yes        Yes  221,362.11             Yes
+2718230302/13/20135644319379EZIZICIF FA BYUMNBDQ     S1YesPXCC    Yes                77,719.24Yes
+2717980302/13/20135313120629XFPQJJXR NI SLXIPGMV     S1YesZLWX    Yes                 8,738.13No 
+2856420302/20/20134473000607VWNNESL NXPC             S1YesLQFF    Yes               325,100.36No 
+2882840302/21/20134700110264XMBSMBQGCM YEGNOIX       S1YesCYVW    No   412,299.63             Yes
+2609380302/08/20131926065273ZBX FHW                  S1Yes        Yes                76,916.96Yes
+2717970302/13/20131569828232GKSOHCPI UF MGSOIJVK     S1YesIRNH    Yes                 2,834.99Yes
+2609400302/08/20132215478456DFJ WVD                  S1Yes        Yes                 9,369.09No 
+2718120302/13/20133231269929XLFYAOPP SU LWWXNKEL     S1YesMRWX    Yes                 4,347.60Yes
+2857290302/20/20132964268508KHZXJZEWM EKB            S1YesNWDY    Yes                   653.23No 
+2979390302/26/20133968795532PQI OXWKK                S1Yes        Yes       63.21             No 
+2784450302/15/20132088697609JSX ZIG MVZT             S1YesZWIR    Yes    3,070.56             Yes
+2609420302/08/20131867342687GGM KHI                  S1No         Yes    3,613.75             Yes
+2857250302/20/20132625259452QMBCEABMA OJA            S1YesECIW    Yes    5,701.70             Yes
+2979410302/26/20135131708988TBW ZWTTJ                S1Yes        Yes                 7,825.81No 
+2609460302/08/20135413296655BOX OXT                  S1Yes        No                  2,865.54Yes
+2609440302/08/20134052444719AYD UPQ                  S1Yes        Yes   19,108.82             Yes
+2718110302/13/20134374193960MFMNHWMY ED DUGHAQUZ     S1YesYZEP    Yes                    87.88Yes
+2857310302/20/20133459394955OCVTCJUVA GGP            S1YesIQOP    No                 25,560.20Yes
+2979430302/26/20131302043415CIW KGQDI                S1Yes        Yes   88,714.22             Yes
+2784460302/15/20134445744034SEG PJP IZSB             S1YesZUDN    Yes   38,048.34             No 
+2857270302/20/20132236970468HWTJBDINB XDK            S1YesGXQV    Yes    4,373.24             Yes
+2979450302/26/20135269999151XXL SEKDD                S1Yes        Yes                 6,606.53Yes
+2609500302/08/20133230655679OYU MEM                  S1Yes        Yes    8,274.21             Yes
+2857330302/20/20133650320029SOIFMLCTK GHM            S1YesBABQ    Yes                 1,853.14No 
+2979470302/26/20131004121668QRS TGYPG                S1Yes        Yes                 9,990.78No 
+2784470302/15/20135394678997GFO FQS IDEJ             S1No RERD    Yes   63,354.04             Yes
+2609480302/08/20135981015088GRQ FLQ                  S1Yes        Yes                 6,970.41No 
+2979490302/26/20134455617873RWY DMEXO                S1Yes        No                    310.28Yes
+2609520302/08/20133291628772XEU HXC                  S1Yes        Yes                85,068.00Yes
+2718320302/13/20134463450215KQAEODWB FT MBWBZMYU     S1No FGTX    Yes                 4,783.96Yes
+2843260302/19/20132629022647                         S1YesVEVT    Yes                27,308.13Yes
+2784100302/15/20132610137371DSP JKX KEKR             S1No PFME    No     5,828.82             Yes
+2609540302/08/20134078062979QFA IMG                  S1Yes        Yes    4,870.96             Yes
+2718310302/13/20131639569660DCNRIQWV KZ AUGHYWAO     S1No DAIL    Yes                72,750.45Yes
+2843250302/19/20133907788324                         S1YesONRQ    Yes               280,702.95No 
+2784110302/15/20131023656543XAS EBT FEBA             S1YesHIPE    Yes   75,764.29             No 
+2609620302/08/20135276678661WYM DKF                  S1Yes        Yes                 5,580.19Yes
+2609580302/08/20135342989244KEI IVX                  S1Yes        No     3,175.82             Yes
+2843270302/19/20134273506252                         S1YesDNPU    Yes                 3,499.66Yes
+2784120302/15/20133502218260DXO SFU SBCN             S1YesVKTI    Yes   75,069.81             Yes
+2609600302/08/20134200165704PUP DCC                  S1Yes        No    94,278.07             Yes
+1916910301/14/20135179759411CEBICRH RILPVNA          S1No         Yes      948.26             No 
+2609560302/08/20133307760701HEA JCG                  S1Yes        Yes                49,049.02Yes
+2816010302/18/20131807687788FXRV MXJ ZO JIHJ         S1No EYGC    Yes  146,071.73             Yes
+2816050302/18/20132821902197VJH TXJ DDDRE HOFN       S1No BCDM    Yes                47,178.67Yes
+2609640302/08/20135126558483AON FQI                  S1Yes        Yes                 6,478.26Yes
+2784230302/15/20134689481737DXP QUC XNZG             S1YesRRBR    Yes   40,774.08             Yes
+2816020302/18/20132618413014ZGNP GMB WJ SWUK         S1YesXWVG    Yes               340,524.97Yes
+2816060302/18/20131025618773ACE VIX TQZMZ IAGE       S1Yes        Yes    3,552.53             Yes
+2609660302/08/20133446138272BZF TBX                  S1Yes        Yes                   896.53Yes
+2609680302/08/20133162985116VHS KUR                  S1No         Yes    3,800.37             Yes
+2718040302/13/20135136073892WBGNMXPX GZ QMTYLYTF     S1YesRVLL    Yes                    51.81Yes
+2843090302/19/20131253262882                         S1YesKAYM    Yes                 9,533.37No 
+2609700302/08/20132857308168DVT WTJ                  S1Yes        No    83,083.50             Yes
+2609720302/08/20132075019528MZC OUI                  S1Yes        Yes                 8,541.04Yes
+2856190302/20/20133789922267KVXMCNX NHIM             S1YesMYOI    No    45,273.43             Yes
+2882960302/21/20134467421368BRMVVHBHIM XSBJFFW       S1YesQUTA    Yes                39,044.26No 
+2609740302/08/20135410707974UJK ROC                  S1Yes        Yes      512.24             Yes
+2609800302/08/20135099780946VTT AIH                  S1Yes        Yes                     4.30Yes
+2718030302/13/20132010221094BTZDBJNK QO OADIQSPP     S1YesGANY    Yes                   596.87Yes
+2843080302/19/20135742845074                         S1YesGESF    Yes                49,432.49Yes
+2882880302/21/20132808759985ETANLYRASD HWIYHUD       S1YesQYHF    Yes   30,872.88             Yes
+2856220302/20/20135590113561QUVCIYV AWOL             S1No BBDQ    No                 95,242.81Yes
+2882870302/21/20135081624839PVSNAIALBB PSPWDHJ       S1YesADNX    Yes   65,431.18             Yes
+2882970302/21/20131021055865WEHRMRDTAL DZQRKOB       S1YesMBQL    Yes                42,948.64Yes
+2609780302/08/20131414754326LQG NGL                  S1Yes        Yes    8,476.45             Yes
+2784030302/15/20133404443887OUL AIO AXGN             S1YesJNZI    Yes   92,404.19             Yes
+2609760302/08/20134891272895AXA EFR                  S1Yes        Yes      468.59             Yes
+2609830302/08/20131151421747NJA CRT                  S1Yes        Yes    9,689.05             Yes
+2609860302/08/20133959592835ULJ SJU                  S1Yes        Yes      781.25             Yes
+2609840302/08/20131481382004ZQA IAD                  S1No         Yes   29,802.43             No 
+2856240302/20/20135165592283ODACRTS XXED             S1YesAHRT    No        57.58             Yes
+2609880302/08/20131269625121ZEH UBM                  S1Yes        Yes                 7,219.73No 
+2609900302/08/20132933696403MEE YOM                  S1No         No                 67,805.30Yes
+2736470302/14/20131786179178UIWT TGXMI JBQZFGA       S1YesPUUC    Yes      804.55             No 
+2609920302/08/20132267145856NMM JTK                  S1Yes        Yes                82,852.21Yes
+2695940302/12/20132263721394WJEDV AOBWMTD            S1Yes        Yes  689,299.64             Yes
+2736380302/14/20134547104776KMBVIXQX BEPXNLE MZSTYOI S1No QGJB    Yes    7,086.18             Yes
+2736400302/14/20131893244352PNVRDCVR XKCHGGA NZFIJFM S1No NYYU    Yes      503.34             Yes
+2736390302/14/20135341355528EIFRYNJX JJYHBRU ODELJPO S1YesTHCG    No     9,177.10             Yes
+2736410302/14/20135744947636AWUVMNZT EDFEWIC KSKHXKD S1YesELTE    No       811.59             Yes
+2609960302/08/20133467715598TWY ING                  S1Yes        Yes                47,499.02Yes
+2718100302/13/20132912197382IRYCYATS OF DRLJOASX     S1YesMEFN    Yes                    38.09Yes
+2882890302/21/20134702884634MSRPNDWYYR ZPOTLLL       S1YesNCEZ    Yes   43,227.97             No 
+2882980302/21/20133193592984FRUQNYWCHG JQTZVIU       S1YesPNUE    Yes                62,065.31No 
+2736500302/14/20131932950817UCBX VKXHE ELJWPDT       S1YesOIDD    No    92,630.30             Yes
+2609940302/08/20134227260575YWC GSA                  S1Yes        Yes   48,158.39             Yes
+2609980302/08/20131760850550ZPP BLN                  S1Yes        Yes                    66.25Yes
+2639890302/11/20135527708104TER RIW                  S1Yes        Yes    1,240.18             Yes
+2784140302/15/20135947341832APS YRR TDJC             S1YesWWLU    Yes    4,056.34             No 
+2639930302/11/20134308083641DWZ NJZ                  S1Yes        Yes  825,104.53             Yes
+2718050302/13/20135754355325ANJQPSXV BS HYYMYFTH     S1YesAKMJ    Yes                   476.91Yes
+2843110302/19/20135239812362                         S1YesEHHO    Yes                19,350.17Yes
+2784150302/15/20132805408204UTI PHT CGSP             S1YesZXBA    Yes   20,650.48             Yes
+2639990302/11/20131461783858FBJ OER                  S1Yes        Yes        8.81             No 
+2639910302/11/20132250586728NTT FZA                  S1Yes        Yes        5.52             Yes
+2639970302/11/20132220073347CGS BLY                  S1Yes        Yes                 2,481.47Yes
+2784160302/15/20134112736191SKP QHF VEKW             S1YesFJVX    Yes   13,911.77             Yes
+2640010302/11/20132519810412CKY NSF                  S1No         Yes        7.97             Yes
+2362880302/01/20132706120350QXKKQAQ VZ MGNRKST       S1YesCFSE    No        29.07             Yes
+2362890302/01/20132994653375BQGDPGZR DR UAYVTIT      S1YesWWUP    Yes      111.22             Yes
+2362900302/01/20132429456483BJLYHYHW ZI UQEQLFC      S1YesXEHK    Yes      871.67             Yes
+2639950302/11/20131575843564SPV WID                  S1Yes        Yes    9,559.48             No 
+2610000302/08/20131162956820KFE OKO                  S1Yes        Yes   56,509.85             Yes
+2718170302/13/20131229995296QYBBPHRP GB MBKCBOJW     S1No FNLE    No                  4,416.06Yes
+2784410302/15/20133090645397LUZ ZZE EWHO             S1YesPNUB    Yes    5,997.86             Yes
+2610020302/08/20135517668303RPU VPQ                  S1Yes        Yes      726.85             Yes
+2718160302/13/20133943767571EBOBLTNL WY UJVVURLO     S1YesAKGR    No                    306.35Yes
+2856150302/20/20135705006205AXGUFPQ LZKB             S1No LKHS    No    83,059.44             Yes
+2882910302/21/20132243030355RZZXLZHJCE PAOUCYX       S1YesYDLY    Yes                72,177.71Yes
+2784420302/15/20135432520104ZSY MTG CYWP             S1YesRKWY    Yes    2,144.71             Yes
+2610080302/08/20133303091405TNT ZDX                  S1Yes        No                 71,416.21Yes
+2784430302/15/20131438121080LXI BUX PSQZ             S1YesFZMW    Yes   30,480.19             Yes
+1916870301/14/20131075624423SFWYIJV GEOESQC          S1Yes        Yes    1,761.46             No 
+2610040302/08/20131333441251CWH KKE                  S1No         Yes    5,652.68             No 
+2610060302/08/20131570391093SJX FGD                  S1Yes        Yes    3,910.10             Yes
+2610110302/08/20133412506726BAD IUE                  S1No         Yes                    95.13Yes
+2718020302/13/20134808128092XRBANXHV WQ YPTVHGVS     S1YesIBTK    Yes                49,099.42Yes
+2815930302/18/20132502360999CENF LSL FN QRVE         S1YesPOJZ    Yes                 4,783.75Yes
+2815940302/18/20135208294247FVGL UVR LP GSJO         S1YesFBET    Yes    3,224.23             Yes
+1920710301/14/20133058000286GX PMGA                  S1YesIOUWKQZPYes      438.33             Yes
+2610120302/08/20131788917851TLJ QZB                  S1Yes        Yes    3,371.77             Yes
+2718010302/13/20133457395648KRJWYLEF QH JSFRDAQQ     S1No MZRQ    No                 96,292.00Yes
+2843100302/19/20133620226647                         S1No CPYU    Yes                32,505.98Yes
+2815950302/18/20133466871721DHNI ESA TL SVCF         S1YesOIPB    No                 24,404.41Yes
+2815960302/18/20133921233130LMOV YLN XG KDND         S1YesFJPQ    Yes   59,994.49             No 
+2610140302/08/20132255167564LCB LPN                  S1Yes        Yes                   708.56Yes
+2610160302/08/20133247533407PXE QPC                  S1Yes        Yes   65,200.07             Yes
+2610180302/08/20134365264013SXJ TIY                  S1No         Yes    7,902.17             Yes
+2694100302/12/20132844891239URDKT NLCBQJY            S1No         Yes                 1,428.28Yes
+2718070302/13/20134767728595DKJOGIUS VV AKBMCFTJ     S1No EIIG    Yes                   538.92Yes
+2736450302/14/20132195610346HRIL SXNSO PEWEXXU       S1YesXQMQ    Yes    7,502.22             Yes
+2784070302/15/20131623405887AWS XLB HFYQ             S1YesVXKO    Yes    5,557.68             Yes
+2610200302/08/20134816774127TYJ GOB                  S1Yes        Yes                91,635.09No 
+2694120302/12/20134114741546QDWZT KGLTPLU            S1Yes        Yes                17,338.87No 
+2718060302/13/20133069180025UZUTHINP VS RLZQYSUK     S1YesNTUT    No                  3,865.13Yes
+2736460302/14/20132399174795QXXY OJAIK BROGXZC       S1YesKTLW    Yes   38,258.13             Yes
+2784080302/15/20134332708582KCZ GZQ XNOE             S1YesOLOS    Yes    1,846.95             No 
+2610240302/08/20135073826941QEG ARE                  S1No         Yes   73,737.01             No 
+2694140302/12/20135725268492TIPPK WOJMZQI            S1Yes        No                 34,658.83Yes
+2784020302/15/20133147457646NMH IMY BRRC             S1YesCJKR    Yes    5,272.19             No 
+2784050302/15/20132552213911WVU ROH ZSVQ             S1No ZCVM    Yes   70,435.49             Yes
+2610260302/08/20135960631180PMF ISF                  S1No         Yes      271.01             Yes
+2610280302/08/20131030628918YPP ALC                  S1Yes        No                  6,558.82Yes
+2610220302/08/20135906656552NBV AMY                  S1Yes        Yes                    66.86No 
+2610300302/08/20135343641388LRX YNR                  S1Yes        Yes                12,756.60Yes
+2718300302/13/20131925205129PXRUSCQJ WE BPYVSZCW     S1YesGNBQ    Yes                37,721.25Yes
+2843230302/19/20133604245175                         S1YesUFTK    Yes                 2,129.71Yes
+2784180302/15/20133981558828NFT EWM INZB             S1YesBIHZ    Yes    4,211.50             Yes
+2946480302/25/20134248670489KNRS MW IX JZ            S1No GBUW    No                 47,273.40Yes
+2610320302/08/20135970510360ZXY LEY                  S1Yes        Yes       15.54             Yes
+2610340302/08/20131526941717JNZ YBA                  S1No         Yes    4,335.46             No 
+2718290302/13/20135725612637FIRNPCBT ZW AEFDXZPP     S1No DOVZ    Yes                51,319.63Yes
+2843220302/19/20135580443229                         S1YesUQBD    Yes               407,947.96Yes
+2784190302/15/20131798980788EAL PRS CUVI             S1YesHRGM    Yes    1,826.78             Yes
+2946490302/25/20132923295287PTAM WH RB TB            S1YesIAEI    Yes   76,897.23             Yes
+2610360302/08/20132167093772EZZ HHN                  S1Yes        Yes                     5.19No 
+2610420302/08/20135818123759NJF WXQ                  S1Yes        Yes   67,155.69             Yes
+2816000302/18/20135118950265NUTZ RIH BI XJPU         S1YesLZGQ    Yes  967,961.55             Yes
+2843240302/19/20133528636734                         S1YesGQWM    Yes                80,220.78Yes
+2784210302/15/20132235540000NUB RNE AVFY             S1YesLAUH    Yes  261,211.04             No 
+2815970302/18/20133955458775QIORB SPDX UA IF         S1YesCWOU    Yes      655.65             Yes
+2815990302/18/20134848916253VRJB PBO QL ZOTW         S1YesGPAF    Yes               930,183.41Yes
+1916890301/14/20135578918836HHNGBEH ADNARUU          S1Yes        Yes      986.57             Yes
+2610380302/08/20132349540822CUU SPU                  S1Yes        Yes               158,267.02No 
+2610400302/08/20133612226480HAB ITO                  S1Yes        No        27.82             Yes
+2610440302/08/20135346533264VZM GTO                  S1Yes        Yes  805,512.91             Yes
+2610460302/08/20133257853324NRG SJA                  S1Yes        Yes    5,892.93             Yes
+2610480302/08/20133060039374WZR NSS                  S1No         Yes      942.95             Yes
+2718000302/13/20135063544161HUHDBKYS SN OLIPZOYZ     S1YesPXET    Yes                40,052.63Yes
+2784490302/15/20131615655629RMZ XEZ RMTP             S1YesAEJV    Yes   81,602.86             No 
+2610500302/08/20134384151502HBQ PAQ                  S1No         Yes                 3,239.07Yes
+2717990302/13/20133864155736FQILYUZI UQ OTRZVGPJ     S1YesNEKF    Yes                48,485.90Yes
+2843070302/19/20134791276460                         S1YesEYCT    Yes                93,128.98No 
+2736610302/14/20134300996271EWXI JKML UCN Z GU KNG A S1YesMADH    No       523.35             Yes
+2784500302/15/20133904186931FAE LIU OMBK             S1No TFFO    Yes   53,670.13             Yes
+2856360302/20/20133867064833YVLLWJC DCBE             S1YesTLBT    Yes                   890.88Yes
+2610540302/08/20133395869946AKO HUQ                  S1Yes        Yes      111.30             Yes
+2784510302/15/20133309216142EVU DUI VTZS             S1No MRIK    No    95,691.64             Yes
+1916920301/14/20131965148330QDSUGCQ TLWUIYX          S1Yes        Yes    4,145.17             Yes
+2695120302/12/20135245189235SXBGBAL EGU              S1Yes        No                 56,954.18Yes
+2736620302/14/20133690909865MHJU QGTB TGW L PW PPJ M S1YesNWID    No   265,944.54             Yes
+2736630302/14/20132285891204FOKF CWDN WSB I RS DGY J S1YesLZJB    Yes      915.57             Yes
+2856370302/20/20132870664212YGHEOOT SKZZ             S1No LGDP    Yes                   605.81Yes
+2736640302/14/20135609421529KXOK YSGI LNZ S UI HCC J S1YesFXNQ    No   821,549.65             Yes
+2856340302/20/20131812839526MVMVKJK STPD             S1YesXZRC    No    12,605.97             Yes
+2736650302/14/20131722749430DVYL BRSM CIP I EH HSW E S1No YOFA    Yes   81,312.22             No 
+2856380302/20/20131726653322UPPRRZM CNMF             S1YesZJBS    Yes                   535.62Yes
+2856390302/20/20135130342862GXPKAFB ZQOO             S1No NVJD    Yes                49,979.12Yes
+2856230302/20/20133262198001PHSTYWJ UEQY             S1YesZHYE    No     3,146.12             Yes
+2882920302/21/20135446268804EIAOOPDORB PDLMEXT       S1No GXJK    No                    283.44Yes
+2736660302/14/20132196991377JLWS XNWH TNM P MN FNR P S1YesPLFX    Yes      279.56             Yes
+2856250302/20/20133710797937DXEQRXV EVCH             S1YesUZYL    No     3,347.22             Yes
+2856400302/20/20135213849752FBMLKMK PPLE             S1YesBNRX    Yes                   169.83Yes
+2610580302/08/20132305584533CIR EVF                  S1No         Yes   10,007.88             Yes
+2718190302/13/20131629693173YOCTNDTZ TD XAGZOWPH     S1No WMHZ    Yes                15,214.68Yes
+2784250302/15/20132119841330LPP MAV IIOJ             S1YesJGXF    No     2,771.01             Yes
+2610600302/08/20134905543898SJE WFT                  S1Yes        Yes   22,966.05             No 
+2718180302/13/20134841466420DHCGVDGD HO SQNXTRGJ     S1YesWHSJ    Yes                 3,434.85Yes
+2843160302/19/20134880102870                         S1YesMTWL    No                765,422.64Yes
+2784260302/15/20133229913714HRQ LFX PCAJ             S1YesPHIS    No    15,821.51             Yes
+2610640302/08/20132872557379GFQ MSB                  S1Yes        Yes                 4,195.13No 
+2843170302/19/20135804923168                         S1YesMAWJ    Yes                 5,049.50Yes
+2784270302/15/20133305026077BZB TOP JXJN             S1YesPBKH    Yes   22,214.96             No 
+1916880301/14/20132536742738GLPJAYV QPPDGKG          S1No         Yes      942.41             No 
+2610620302/08/20132527040831TGW AEX                  S1Yes        Yes    9,873.31             Yes
+2611010302/08/20132581504272DSW JNC                  S1Yes        Yes                36,651.99Yes
+2610660302/08/20134098293723KDF KGN                  S1Yes        Yes  904,251.28             Yes
+2610680302/08/20134669134897HFZ RGL                  S1Yes        Yes      792.97             Yes
+2718280302/13/20132769146078EALRFBEB JQ MHTWFNCR     S1YesSHUY    Yes                 1,296.94Yes
+2856460302/20/20135408806374WGGBTKN KONO             S1YesVKFT    No                478,316.19Yes
+2784290302/15/20131289634277DFY MUM WZVT             S1YesSNGC    No    35,756.17             Yes
+2843330302/19/20133269145903YBP YAN HYZ AZNS         S1No RCCL    No                  7,542.70Yes
+1844920301/10/20131156671076BRK ZOVHLF               S1YesAYRVLVPOYes                     4.64Yes
+1845110301/10/20131565744628KIX LNZJEL               S1YesKQIYZGTDYes                    79.73Yes
+1911520301/14/20132539114858ZMC YIS RJVIRG           S1YesPRYVLPFIYes                    72.70Yes
+2610700302/08/20132121740677GBG DBQ                  S1No         Yes  678,035.20             No 
+2610720302/08/20132325999990OIB IWD                  S1Yes        Yes                59,411.59Yes
+2718270302/13/20135465324919CMTCFLDG ZT UYEFFLVH     S1YesGRYW    Yes                 3,387.73Yes
+2843210302/19/20134630168443                         S1No NELR    Yes                56,527.20No 
+2856450302/20/20135845094660NVCSRUD WOKT             S1YesMQNN    Yes  504,694.70             No 
+2784300302/15/20132843937437GZK MPW ZFHF             S1YesAFUO    Yes   50,902.61             Yes
+2843340302/19/20132257840737YWT GTZ XJV ORPQ         S1No JFCW    Yes                40,091.00Yes
+2610760302/08/20135454848248EFH MZP                  S1Yes        Yes                82,022.74Yes
+2610780302/08/20131183867083PDK ZIL                  S1Yes        Yes                   350.94Yes
+2784310302/15/20131136581373OTJ SHA ERJF             S1YesFVYP    Yes   16,651.71             Yes
+1916900301/14/20135006707260YPJVENG PZCLFRM          S1Yes        Yes      217.60             Yes
+2610740302/08/20135974560914IZM LNU                  S1Yes        Yes    3,488.05             No 
+2610800302/08/20134001003943YEV YSO                  S1Yes        Yes   51,669.22             No 
+2350680301/31/20133959829493TSQLUTJA ZSHCFRQI ST UZRGS1YesMAFT    No                  5,125.73Yes
+2362830302/01/20135802892377HSNTCMVY KDFFRIAS        S1YesSBKH    Yes                   229.23No 
+2610820302/08/20135449557299DOU DUN                  S1Yes        Yes    3,340.36             Yes
+2855810302/20/20134795757248PKVJCRXWR CNPAULD        S1No         No                  5,600.98Yes
+2856160302/20/20131260461656DVIARZX KMUY             S1YesTOCT    Yes                 1,713.23Yes
+2882820302/21/20134343507086FOZNZVNZJQ LKXYFHX       S1YesRGIH    Yes   38,595.37             Yes
+2610840302/08/20131883096153UVN TMN                  S1Yes        Yes   86,489.11             Yes
+2610860302/08/20131076387530LGD JGM                  S1No         Yes    9,613.86             Yes
+2718090302/13/20133109847575ZSWKVXKQ UJ FDDEMJKO     S1YesXFIK    Yes                 4,502.16Yes
+2857640302/20/20131353919451EPHFQDG WDLY             S1YesLEAH    Yes   66,749.31             No 
+2882860302/21/20132187340618ORYKVVYILX BCCMAOV       S1No SCNG    No    41,980.89             Yes
+2784380302/15/20132206989456FOA BCV PLQE             S1No FXBK    No     5,670.01             No 
+2843370302/19/20131220961266JRQ AGX SVC VRWL         S1YesJAQL    Yes                 6,865.30Yes
+2855980302/20/20135339124376PFU HWDWVO LZP AET NTWL  S1YesUHPB    Yes      527.40             Yes
+2362810302/01/20134433916399PLHOIV TTMIJQVR RBXW     S1YesDFEL    Yes                   667.23No 
+2362820302/01/20132488002600XVNVBLUA POCEZVFK        S1YesDBAB    Yes      809.18             No 
+2610880302/08/20131799768325IAM DTD                  S1Yes        Yes    7,113.57             Yes
+2718080302/13/20132545509112FUGUCLTH UU RQQCLLCH     S1YesQYJK    No                 75,197.26Yes
+2843120302/19/20133546614372                         S1No GXTQ    Yes                22,683.39Yes
+2856110302/20/20134863776819AEYYFC BEFFNU OWQGWZKZ   S1YesPDCR    Yes   63,155.17             No 
+2856120302/20/20132915719672COL LFMZB                S1No EIBX    Yes    3,944.25             Yes
+2856470302/20/20132523677329JBSLJNA PZXN             S1YesCKYU    No    97,349.19             Yes
+2857630302/20/20135303194688TXYJUBP ELFA             S1YesPGTB    Yes   27,809.73             No 
+2784390302/15/20132789039442QJY NNI NLZJ             S1YesOCRT    Yes   42,566.77             No 
+2843380302/19/20131522151761LIN XMP DGM XLAI         S1YesZKBH    Yes                90,179.23No 
+2855990302/20/20132243601864YGP SKAVOM GJT OBY INOR  S1YesOOKS    Yes    8,640.02             No 
+2546460302/06/20134878327067GJKSDP ECAHMJXPW         S1YesHKRP    Yes                   808.58Yes
+1916860301/14/20133967533090LUNRIJQ EKQOPVG          S1Yes        Yes    6,267.33             Yes
+2362770302/01/20135909223644MPEHJYK DI XHJ OXPZEPYU  S1YesSAJN    No         2.90             Yes
+2362840302/01/20132344082949YAJNZNAL ZNKMIIU COWX CY S1No PWEW    No                  6,028.94Yes
+2610900302/08/20135895728860LHO IRF                  S1Yes        Yes   58,338.74             No 
+2856130302/20/20135039973097KOYAFY QVNVLB            S1YesBORT    Yes                51,094.91Yes
+2856140302/20/20132876318815EOXTDD UMDUGA            S1YesELUW    Yes                 3,632.71Yes
+2610920302/08/20135657967522EIY XVA                  S1Yes        Yes   84,854.04             Yes
+2856440302/20/20134963177098FEWYHCX RBFI             S1YesTWQR    Yes                40,541.91Yes
+2784330302/15/20132536030800GDG YJD LUNZ             S1YesCDVE    No    72,313.55             Yes
+2812400302/18/20134493017490YWH RCXFEGR LEM OC KI    S1YesEYKO    Yes      428.60             Yes
+2843280302/19/20135864434128QZR NQU KDPO DBSV        S1No QYLO    Yes       45.35             Yes
+2610940302/08/20132020000780ENU YXC                  S1Yes        No   249,485.08             Yes
+2718130302/13/20131267180313DSBWFAVV SS QAJGRIRD     S1No VGER    Yes                   869.58No 
+2856430302/20/20133937681126PYZNYBL ELQT             S1YesPYPL    Yes   75,308.61             Yes
+2784340302/15/20132069410641XVQ OIA XLVE             S1YesNFKY    Yes   59,884.43             Yes
+2812410302/18/20135958787235VJX VYRCHRJ RXB TY TP    S1YesTOCG    Yes       43.45             Yes
+2843290302/19/20132584327630TKQ JXP ISXV CEIF        S1YesPWMA    Yes        1.89             No 
+2816040302/18/20135475117985QFR RPN KSECD QJRA       S1YesZTHE    Yes                66,233.44Yes
+2784360302/15/20132226484431MSJ NBZ NIXS             S1YesBMCN    Yes   97,818.54             Yes
+2812390302/18/20135661794541LJB XE PQ USKWBJT MNE UF S1YesEBVO    Yes                45,379.28Yes
+2816030302/18/20133394861553GVQ AEP ZKFLY GOAO       S1YesIIBY    Yes   92,299.81             Yes
+2843310302/19/20135660526806FDN QLT CYTM GSVJ        S1YesSRJF    Yes   12,298.17             Yes
+2610980302/08/20135649580335BMS FFB                  S1Yes        No                 72,855.65Yes
+2610960302/08/20134732911590DHV UYQ                  S1Yes        Yes                   618.88Yes
+2948320302/25/20132068136558QLGZIUJ PY WTU SZL       S1No PJLT    Yes                63,683.68Yes
