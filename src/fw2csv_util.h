@@ -15,6 +15,8 @@ int get_lens_from_file(IntArray*, char*);
 
 void slice_str(char*, char*, size_t, size_t);
 
+char *ltrim(char[]);
+
 char *rtrim(char[]);
 
 int parse_fw_file(IntArray*, char*);

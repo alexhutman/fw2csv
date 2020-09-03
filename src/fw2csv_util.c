@@ -65,6 +65,14 @@ void slice_str(char *str, char *buffer, size_t start, size_t end) {
     buffer[j] = 0;
 }
 
+char *ltrim(char s[]) {
+		char *beg = s;
+		while (isspace(*beg)) {
+				beg++;
+		}
+		return beg;
+}
+
 char *rtrim(char s[]) {
 		char *end = s + strlen(s) - 1;
 		while (isspace(*end)) {
@@ -97,13 +105,13 @@ int parse_fw_file(IntArray *i_arr, char *fw_fname) {
 				int cur_index = 0;
 				for (int col = 0; col < ((i_arr->size)-1); col++) {
 						slice_str(line, buffer, cur_index, cur_index + (i_arr->arr)[col]-1);
-						printf("%s,", rtrim(buffer));
+						printf("%s,", ltrim(rtrim(buffer)));
 						cur_index += (i_arr->arr)[col];
 				}
 
 				// Do the last column manually to omit the comma and print new line
 				slice_str(line, buffer, cur_index, cur_index + (i_arr->arr)[(i_arr->size)-1]-1);
-				printf("%s\n", rtrim(buffer));
+				printf("%s\n", ltrim(rtrim(buffer)));
 
 				cur_line += 1;
 		}
