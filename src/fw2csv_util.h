@@ -2,11 +2,11 @@
 #define FW2CSV_UTIL_H
 
 typedef struct {
-		int *arr;
-		int size; // When creating a new IntArray, size should always be 0
-		int capacity;
-		int sum_lengths;
-		int max_length;
+	int *arr;
+	int size; // When creating a new IntArray, size should always be 0
+	int capacity;
+	int sum_lengths;
+	int max_length;
 } IntArray;
 
 int add(IntArray*, int);
