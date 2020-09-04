@@ -82,7 +82,7 @@ char *rtrim(char s[]) {
 		return s;
 }
 
-int parse_fw_file(IntArray *i_arr, char *fw_fname) {
+int parse_fw_file(IntArray *i_arr, char *fw_fname, char delimiter) {
 		FILE *fp = fopen(fw_fname, "r");
 
 		if (fp == NULL) {
@@ -105,7 +105,7 @@ int parse_fw_file(IntArray *i_arr, char *fw_fname) {
 				int cur_index = 0;
 				for (int col = 0; col < ((i_arr->size)-1); col++) {
 						slice_str(line, buffer, cur_index, cur_index + (i_arr->arr)[col]-1);
-						printf("%s,", ltrim(rtrim(buffer)));
+						printf("%s%c", ltrim(rtrim(buffer)), delimiter);
 						cur_index += (i_arr->arr)[col];
 				}
 

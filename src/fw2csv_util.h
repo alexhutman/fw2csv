@@ -19,7 +19,7 @@ char *ltrim(char[]);
 
 char *rtrim(char[]);
 
-int parse_fw_file(IntArray*, char*);
+int parse_fw_file(IntArray*, char*, char);
 
 void print_len_arr(IntArray*);
 
