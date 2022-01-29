@@ -55,7 +55,7 @@ int main(int argc, char *argv[]) {
 	}
 
 
-	IntArray lengths = {malloc(N_COLS * sizeof(int)), 0, N_COLS, N_COLS, 0, 0};
+	IntArray lengths = {malloc(N_COLS * sizeof(int)), 0, N_COLS, 0};
 
 	if (get_lens_from_file(&lengths, lens_fname)) {
 		return 1;

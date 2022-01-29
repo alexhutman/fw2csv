@@ -5,7 +5,6 @@ typedef struct {
 	int *arr;
 	int size; // When creating a new IntArray, size should always be 0
 	int capacity;
-	int init_capacity;
 	int sum_lengths;
 	int max_length;
 } IntArray;
